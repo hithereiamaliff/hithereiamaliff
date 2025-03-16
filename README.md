@@ -22,7 +22,7 @@ Currently training to become a MOTAC-licensed tour guide in Penang (expected com
 - React & TypeScript for frontend development
 - Node.js for backend solutions
 - Railway for backend deployment and hosting
-- Firebase for database hosting
+- Supabase for database hosting
 - AI assistance for enhanced development workflows 💻
 
 ## Featured Projects
