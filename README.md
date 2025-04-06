@@ -27,6 +27,7 @@ Currently training to become a MOTAC-licensed tour guide in Penang (expected com
 
 ## Featured Projects
 
+- **[lhdn-calculator](https://github.com/hithereiamaliff/lhdn-calculator)**: An unofficial web application to calculate Malaysian personal income tax
 - **[mynameisaliff-frontend](https://github.com/hithereiamaliff/mynameisaliff-frontend)**: Frontend codebase of my personal website built with React + TypeScript
 - **[mcp-servers](https://github.com/hithereiamaliff/mcp-servers)**: A collection of Model Context Protocol (MCP) servers developed with AI assistance
 - **[wsl-claudecode-launcher](https://github.com/hithereiamaliff/wsl-claudecode-launcher)**: Simple scripts to launch Claude Code from Windows using WSL
