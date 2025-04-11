@@ -40,4 +40,3 @@ I've worked with brands 🤝 like Frase, Boutir, Häfele, and Moovit, applying m
 
 - 🌐 Website: [mynameisaliff.co.uk](https://mynameisaliff.co.uk)
 - 📲 LinkedIn: [linkedin.com/in/hithereiamaliff/](https://www.linkedin.com/in/hithereiamaliff/)
-- 📧 Email: [hello@mynameisaliff.co.uk](mailto:hello@mynameisaliff.co.uk)
