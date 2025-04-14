@@ -14,7 +14,7 @@ Currently training to become a MOTAC-licensed tour guide in Penang (expected com
 - 🌐 **Web development**: Building and maintaining my personal website and other digital platforms
 - 🚌 **Public transportation data**: Contributed publicly available public transport data to Moovit as a Community Volunteer since 2019
 - 📝 **Content writing**: Created over 220 high-quality content for various clients worldwide
-- 🔧 **Developer tools**: Creating utilities like the WSL Claude Code launcher for Windows
+- 🔧 **Developer tools**: Creating utilities like the WSL Claude Code launcher for Windows, as well as Model Context Protocol (MCP) servers
 - 🙋🏻‍♂️ **Licensed tour guide**: Training to become a licensed tour guide in Malaysia by 2025
 
 ## Tech Stack
@@ -28,9 +28,10 @@ Currently training to become a MOTAC-licensed tour guide in Penang (expected com
 ## Featured Projects
 
 - **[lhdn-calculator](https://github.com/hithereiamaliff/lhdn-calculator)**: An unofficial web application to calculate Malaysian personal income tax
-- **[mynameisaliff-frontend](https://github.com/hithereiamaliff/mynameisaliff-frontend)**: Frontend codebase of my personal website built with React + TypeScript
+- **[malaysianpaymentgateway](https://github.com/hithereiamaliff/malaysianpaymentgateway)**: A React component library for integrating Malaysian payment methods into web applications.
 - **[mcp-servers](https://github.com/hithereiamaliff/mcp-servers)**: A collection of Model Context Protocol (MCP) servers developed with AI assistance
 - **[wsl-claudecode-launcher](https://github.com/hithereiamaliff/wsl-claudecode-launcher)**: Simple scripts to launch Claude Code from Windows using WSL
+- **[mynameisaliff-frontend](https://github.com/hithereiamaliff/mynameisaliff-frontend)**: Frontend codebase of my personal website built with React + TypeScript
 
 ## Collaborations
 
