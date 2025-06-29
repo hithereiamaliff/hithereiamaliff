@@ -39,6 +39,6 @@ I've worked with brands 🤝 like Frase, Boutir, Häfele, and Moovit, applying m
 
 ## Get in Touch
 
-- 🌐 Website: [mynameisaliff.co.uk](https://mynameisaliff.co.uk)
+- 🌐 Website: [mynameisaliff.co.uk](https://mynameisaliff.co.uk?utm_source=github&utm_medium=referral&utm_campaign=profile_link)
 - 📲 LinkedIn: [linkedin.com/in/hithereiamaliff/](https://www.linkedin.com/in/hithereiamaliff/)
-- 🙋🏻‍♂️ Enquiries: through [my website](https://mynameisaliff.co.uk) (chat 💬 on the bottom right, or submit through Ask Aliff)
+- 🙋🏻‍♂️ Enquiries: through [my website](https://mynameisaliff.co.uk?utm_source=github&utm_medium=referral&utm_campaign=profile_link) (chat 💬 on the bottom right, or submit through Ask Aliff)
