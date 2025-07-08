@@ -27,6 +27,7 @@ Currently training to become a MOTAC-licensed tour guide in Penang (expected com
 
 ## Featured Projects
 
+- **[tourwithalan](https://github.com/hithereiamaliff/tourwithalan)**: An interactive travel concierge (web app) that welcomes and guides tourists for their Malaysia visit.
 - **[lhdn-calculator](https://github.com/hithereiamaliff/lhdn-calculator)**: An unofficial web application to calculate Malaysian personal income tax
 - **[malaysianpaymentgateway](https://github.com/hithereiamaliff/malaysianpaymentgateway)**: A React component library for integrating Malaysian payment methods into web applications.
 - **[mcp-servers](https://github.com/hithereiamaliff/mcp-servers)**: A collection of Model Context Protocol (MCP) servers developed with AI assistance
