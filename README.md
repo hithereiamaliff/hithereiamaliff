@@ -29,7 +29,7 @@ Currently training to become a MOTAC-licensed tour guide in Penang (expected com
 
 - **[lhdn-calculator](https://github.com/hithereiamaliff/lhdn-calculator)**: An unofficial web application to calculate Malaysian personal income tax
 - **[malaysianpaymentgateway](https://github.com/hithereiamaliff/malaysianpaymentgateway)**: A React component library for integrating Malaysian payment methods into web applications.
-- **[mcp-servers](https://github.com/hithereiamaliff/mcp-servers)**: A collection of Model Context Protocol (MCP) servers developed with AI assistance
+- **[mcp-keywords-everywhere](https://github.com/hithereiamaliff/mcp-keywords-everywhere)**: MCP server that connects your AI model with Keywords Everywhere API
 - **[wsl-claudecode-launcher](https://github.com/hithereiamaliff/wsl-claudecode-launcher)**: Simple scripts to launch Claude Code from Windows using WSL
 - **[mynameisaliff-frontend](https://github.com/hithereiamaliff/mynameisaliff-frontend)**: Frontend codebase of my personal website built with React + TypeScript
 
