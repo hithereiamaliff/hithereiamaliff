@@ -10,12 +10,11 @@ Currently a licensed tour guide in Penang since end-July 2025, which perfectly c
 
 ## What I Work On
 
-- 🧳 **Tourism applications**: Creating digital experiences for visitors and locals in Penang through "Tour With Alan" (expected launch after April 2025)
-- 🌐 **Web development**: Building and maintaining my personal website and other digital platforms
-- 🚌 **Public transportation data**: Contributed publicly available public transport data to Moovit as a Community Volunteer since 2019
-- 📝 **Content writing**: Created over 220 high-quality content for various clients worldwide
-- 🔧 **Developer tools**: Creating utilities like the WSL Claude Code launcher for Windows, as well as Model Context Protocol (MCP) servers
-- 🙋🏻‍♂️ **Licensed tour guide**: Training to become a licensed tour guide in Malaysia by 2025
+- 🌐 **Web development**: Building and maintaining websites, landing pages, and many other digital platforms
+- 🚌 **Public transportation**: Contributed publicly available public transport data to Moovit for easy ride planning, as well as converting statistical ridership data into easy-to-process formats
+- 📝 **Content writing**: Created over 220 high-quality written content for various clients worldwide, with added digital marketing into the mix
+- 🔧 **Data access tools**: Creating utilities like the Model Context Protocol (MCP) servers, enabling AI models to access fresh data sources with ease
+- 🙋🏻‍♂️ **Licensed tour guide**: Currently a licensed tour guide based in Penang, Malaysia, with a unique blend of tech and public transport for a memorable visiting experience in Penang and Malaysia overall
 
 ## Tech Stack
 
@@ -28,10 +27,10 @@ Currently a licensed tour guide in Penang since end-July 2025, which perfectly c
 ## Featured Projects
 
 - **[lhdn-calculator](https://github.com/hithereiamaliff/lhdn-calculator)**: An unofficial web application to calculate Malaysian personal income tax
-- **[malaysianpaymentgateway](https://github.com/hithereiamaliff/malaysianpaymentgateway)**: A React component library for integrating Malaysian payment methods into web applications.
+- **[mcp-datagovmy](https://github.com/hithereiamaliff/mcp-datagovmy)**: MCP server that connects your AI model with Malaysian government open data sources
 - **[mcp-keywords-everywhere](https://github.com/hithereiamaliff/mcp-keywords-everywhere)**: MCP server that connects your AI model with Keywords Everywhere API
-- **[wsl-claudecode-launcher](https://github.com/hithereiamaliff/wsl-claudecode-launcher)**: Simple scripts to launch Claude Code from Windows using WSL
-- **[mynameisaliff-frontend](https://github.com/hithereiamaliff/mynameisaliff-frontend)**: Frontend codebase of my personal website built with React + TypeScript
+- **[mcp-nextcloud](https://github.com/hithereiamaliff/mcp-nextcloud)**: MCP server that connects your AI model with your Nextcloud instance's API endpoints
+- **[basmy-opendata](https://github.com/hithereiamaliff/basmy-opendata)**: An unofficial open data hub for BAS.MY bus ridership statistics in various Malaysian cities
 
 ## Collaborations
 
