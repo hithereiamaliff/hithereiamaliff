@@ -4,7 +4,7 @@ A digital experience creator building **transit & travel-tech for Malaysia and t
 
 ## About Me
 
-I'm the founder of **[TechMavie Digital](https://techmavie.digital)**, where I build real-time public-transport apps and the multi-provider transit API behind them. My journey started in content writing ✍🏻 back in 2019 (220+ articles, 400+ content briefs for clients worldwide), grew through 2+ years of contributing transit data to Moovit 🚌, and has become a full transit-tech stack serving **11+ Malaysian cities** with **19M+ API requests** served.
+I'm the founder of **[TechMavie Digital](https://techmavie.digital)**, where I build real-time public-transport apps and the multi-provider transit API behind them. My journey started in content writing ✍🏻 back in 2019 (220+ articles, 400+ content briefs for clients worldwide), grew through 2+ years of contributing transit data to Moovit 🚌, and has become a full transit-tech stack serving **11+ Malaysian cities** with **117K+ API requests** served.
 
 I'm also a **licensed tour guide in Penang** 🙋🏻‍♂️ (since July 2025), which is exactly why my apps obsess over the real arrival experience: immigration, cashless payments, and getting from the airport to your hotel by bus 🌏🇲🇾.
 
@@ -19,7 +19,7 @@ The differentiator: core feeds come from **data.gov.my** and **LTA DataMall**, b
 
 ## Also On My Workbench
 
-- 🔧 **[MCP servers](https://techmavie.digital/modelcontextprotocol)**: ~20 open-source [Model Context Protocol](https://modelcontextprotocol.io) servers connecting AI models to live data (Malaysian open data, GrabMaps, LTA DataMall, Brave, Exa, Perplexity, GitHub, YouTube, Reddit, Ghost CMS, Nextcloud, and more), self-hosted at `mcp.techmavie.digital`.
+- 🔧 **[MCP servers](https://techmavie.digital/modelcontextprotocol)**: ~20 open-source Model Context Protocol servers connecting AI models to live data (Malaysian open data, GrabMaps, LTA DataMall, Brave, Exa, Perplexity, GitHub, YouTube, Reddit, Ghost CMS, Nextcloud, and more), self-hosted at `mcp.techmavie.digital`.
 - 📊 **[BAS.MY Open Data](https://github.com/hithereiamaliff/basmy-opendata)**: an unofficial open-data hub for BAS.MY bus ridership statistics across Malaysian cities.
 
 ## Tech Stack
