@@ -4,13 +4,13 @@ A digital experience creator building **transit & travel-tech for Malaysia and t
 
 ## About Me
 
-I'm the founder of **[TechMavie Digital](https://techmavie.digital)**, where I build real-time public-transport apps and the multi-provider transit API behind them. My journey started in content writing ✍🏻 back in 2019 (220+ articles, 400+ content briefs for clients worldwide), grew through 2+ years of contributing transit data to Moovit 🚌, and has become a full transit-tech stack serving **13+ Malaysian cities** with **19M+ API requests** served.
+I'm the founder of **[TechMavie Digital](https://techmavie.digital)**, where I build real-time public-transport apps and the multi-provider transit API behind them. My journey started in content writing ✍🏻 back in 2019 (220+ articles, 400+ content briefs for clients worldwide), grew through 2+ years of contributing transit data to Moovit 🚌, and has become a full transit-tech stack serving **11+ Malaysian cities** with **19M+ API requests** served.
 
 I'm also a **licensed tour guide in Penang** 🙋🏻‍♂️ (since July 2025), which is exactly why my apps obsess over the real arrival experience: immigration, cashless payments, and getting from the airport to your hotel by bus 🌏🇲🇾.
 
 ## What I'm Building
 
-- 🚌 **[Malaysia Transit](https://malaysiatransit.techmavie.digital)**: real-time bus, train & ferry tracking across 13 areas of Malaysia, with a journey planner, fare calculator, AI assistant, and 13 languages. **Free.**
+- 🚌 **[Malaysia Transit](https://malaysiatransit.techmavie.digital)**: real-time bus, train & ferry tracking across 11+ Malaysian cities (and across the Causeway into Singapore as well as further up north to Hat Yai), with a journey planner, fare calculator, AI assistant, and 13 languages. **Free.**
 - 🛂 **[SG-JB Transit](https://sgjbtransit.techmavie.digital)**: the first app to merge both sides of the Causeway (Singapore LTA + Johor Bahru) into one real-time view, with dual-currency fares and MRT crowd density. **Free.**
 - 🧳 **[Tour With Alan](https://tourwithalan.com)**: a 10-language Malaysia arrival guide with a live post-immigration journey planner across 12 entry points (visa, autogate/MyNIISE QR, SIM, cashless, airport-to-hotel transit). **Free.**
 - 🔌 **[Malaysia Transit API](https://techmavie.digital/transit-api)**: production-ready, enriched, multi-provider real-time transit data over a clean REST API.
@@ -38,4 +38,5 @@ I've worked with brands 🤝 like **Frase, Boutir, Häfele, and Moovit**, bringi
 - 🌐 Main site: [mynameisaliff.co.uk](https://mynameisaliff.co.uk?utm_source=github&utm_medium=referral&utm_campaign=profile_link)
 - 🚌 Transit & travel tech: [techmavie.digital](https://techmavie.digital)
 - 📲 LinkedIn: [linkedin.com/in/hithereiamaliff](https://www.linkedin.com/in/hithereiamaliff/)
+- 🧠 Hiring? Paste a job posting into my [AI job-fit analyzer](https://mynameisaliff.co.uk/cv) and see how I match, plus grab my CV as PDF, Word, or Markdown.
 - 🙋🏻‍♂️ Enquiries: through [my website](https://mynameisaliff.co.uk?utm_source=github&utm_medium=referral&utm_campaign=profile_link)
